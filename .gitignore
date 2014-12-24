@@ -1,0 +1,4 @@
+.bundle/
+.ruby-version
+data1.csv
+vendor/
